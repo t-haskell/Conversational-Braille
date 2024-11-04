@@ -1,0 +1,4 @@
+ibm-watson
+sounddevice
+wavio
+# tkinter
