@@ -70,7 +70,7 @@ This project provides real-time transcription of audio into text, which is then 
 To start the application, simply run the UI script:
 
 ```bash
-python src/ui/app_ui.py
+python src/app_ui.py
 ```
 
 ### Usage
